@@ -1,4 +1,7 @@
-![logo](images/logo.png)
+<!-- ![logo](images/logo.png) -->
+<div style="text-align: center;">
+    <img src="images/logo.png" alt="Digo Technology Jsc">
+</div>
 
 The Digo Bridge integration allows you to make your Home Assistant entities available in Digo platform, so they can be controlled by Digo Smart app; even if those devices are not produced by Digo.
 
