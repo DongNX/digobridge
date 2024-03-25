@@ -1,5 +1,5 @@
 <!-- ![logo](images/logo.png) -->
-<div style="text-align: center;">
+<div style="text-align: center">
     <img src="images/logo.png" alt="Digo Technology Jsc">
 </div>
 
